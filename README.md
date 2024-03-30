@@ -1,1 +1,1 @@
-# File Zipper(Huffman Encoding) By - Devika Simlai
+# File Zipper(Huffman Encoding) 
